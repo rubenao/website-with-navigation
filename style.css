@@ -19,7 +19,7 @@ html, body {
 
 button {
     border: none;
-    background-color: white;
+    background-color: transparent;
     font-family: 'Epilogue', sans-serif;
     color: var(--Almost-Black);
 
